@@ -1,2 +1,2 @@
 ## Simple Store Online 
-+ <br/> Untuk mendapatkan database silahkan email : umam_snake@yahoo.co.id
++ Untuk mendapatkan database silahkan hubungi : umam_snake@yahoo.co.id
