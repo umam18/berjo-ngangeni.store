@@ -1,0 +1,6 @@
+RewriteEngine On
+
+RewriteRule ^home?$ index.php
+RewriteRule ^produk?$ produk.php
+RewriteRule ^order?$ pemesanan.php
+RewriteRule ^detail-produk?$ detailproduk.php
