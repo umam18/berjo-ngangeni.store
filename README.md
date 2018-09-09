@@ -1,3 +1,3 @@
 ## Simple Store Online
-+ Demo : berjo-ngangeni.store
++ Demo : <a href="berjo-ngangeni.store"></a>
 + Untuk mendapatkan database silahkan hubungi : umam_snake@yahoo.co.id
